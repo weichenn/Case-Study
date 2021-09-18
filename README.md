@@ -6,4 +6,5 @@ In this case study, one simple linear regression model and two multiple linear r
 ## Software used
 SPSS software
 
-📙 This code is only for assignent purpose, not for bussiness use.
+📙 This is only for assignment purpose, not for business use.
+
